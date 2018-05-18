@@ -1,0 +1,27 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": false,
+  "websites" : [
+    {
+      "url" : "chrome://newtab",
+      "duration" : 90,
+      "tabReloadIntervalSeconds": 90
+    },
+    {
+      "url" : "https://promptalert.atlassian.net/secure/Dashboard.jspa",
+      "duration" : 90,
+      "tabReloadIntervalSeconds": 90
+    },
+    {
+      "url" : "https://outlook.office365.com/owa/?realm=stericycle.com&exsvurl=1&ll-cc=2057&modurl=0",
+      "duration" : 90,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url" : "https://testmy.net/auto?extraID=A&scheType=&st=1&r_time=1&xtimes=12&minDFS=&minUFS=",
+      "duration" : 90,
+      "tabReloadIntervalSeconds": 0
+    }
+  ]
+}
