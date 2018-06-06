@@ -22,11 +22,6 @@
       "url" : "https://testmy.net/auto?extraID=A&scheType=&st=1&r_time=1&xtimes=12&minDFS=&minUFS=",
       "duration" : 90,
       "tabReloadIntervalSeconds": 0
-    },
-    {
-      "url" : "https://tunein.com/radio/Smooth-Jazz-s249973/",
-      "duration" : 5,
-      "tabReloadIntervalSeconds": 0
     }
   ]
 }
